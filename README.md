@@ -3,7 +3,7 @@
 <head>
      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><span style="color: blue;">Ferramentas de OSINT</span></title>
+    <h2><span style="color: blue;">Ferramentas de OSINT</span></h2>
 </head>
 <body>
 
