@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2>Kit Arsenal de Ferramentas de OSINT</h12>
+<h1>Kit Arsenal de Ferramentas de OSINT</h1>
 
 <ul>
     <li><a href="https://who.is/">https://who.is/ - Descoberta de donos de site .com, .net, .org, .info e mais</a></li>
