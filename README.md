@@ -16,6 +16,8 @@
     <li><a href="https://www.social-searcher.com/">https://www.social-searcher.com/ - Busca em Redes Sociais</a></li>
     <li><a href="http://www.sistram.mar.mil.br/#">http://www.sistram.mar.mil.br/# - Consulta e rastreamento de embarcações marítimas</a></li>
     <li><a href="https://www.shodan.io/">https://www.shodan.io/ - Busca avançada de dispositivos conectados à Internet em todo o mundo como câmeras, roteadores, servidores e mais. (Internet of Things)</a></li>
+     <li><a href="https://www.qualoperadora.net/">https://www.qualoperadora.net/ - Descoberta da operadora de um número de celular</a></li>
+    
 </ul>
 
 </body>
