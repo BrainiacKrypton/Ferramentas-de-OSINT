@@ -38,7 +38,7 @@
     <li><a href="https://www.mercante.transportes.gov.br/g36127/html/Manife/EmbarcConsul.html?noCampo=cdIrin">https://www.mercante.transportes.gov.br/g36127/html/Manife/EmbarcConsul.html?noCampo=cdIrin - Consulta de embarcações navais</a></li>
     <li><a href="https://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar">https://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar - Busca por Currículo Lattes</a></li>
     <li><a href="https://cnpj.biz/">https://cnpj.biz/ - Busca por CNPJs de todo o Brasil</a></li>
-    <li><a href="https://cnes.datasus.gov.br/">
+    <li><a href="https://cnes.datasus.gov.br/">Consulta por estabelecimentos de saúde no DATASUS</a></li>
     <li><a href="https://portal.cfm.org.br/busca-medicos/">Busca por médicos por nome, região, CRM e especialidade</a></li>
     <li><a href="http://cameras.cetsp.com.br/View/Cam.aspx">Câmeras de Segurança da Cia. de Engenharia de Tráfego em São Paulo</a></li>
     <li><a href="https://www.blockchain.com/explorer">Buscas na blockchain - transações, wallets e blocos de criptomoedas</a></li>
